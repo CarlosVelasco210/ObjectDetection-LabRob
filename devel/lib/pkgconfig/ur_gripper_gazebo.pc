@@ -1,0 +1,8 @@
+prefix=/home/wata/LabRob2_ws/devel
+
+Name: ur_gripper_gazebo
+Description: Description of ur_gripper_gazebo
+Version: 0.1.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

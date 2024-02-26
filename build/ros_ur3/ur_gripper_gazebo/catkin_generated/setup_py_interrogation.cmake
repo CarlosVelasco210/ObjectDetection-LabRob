@@ -1,0 +1,7 @@
+set(ur_gripper_gazebo_SETUP_PY_SETUP_MODULE "distutils.core")
+set(ur_gripper_gazebo_SETUP_PY_VERSION "0.1.2")
+set(ur_gripper_gazebo_SETUP_PY_SCRIPTS "")
+set(ur_gripper_gazebo_SETUP_PY_PACKAGES "ur_gazebo")
+set(ur_gripper_gazebo_SETUP_PY_PACKAGE_DIRS "src/ur_gazebo")
+set(ur_gripper_gazebo_SETUP_PY_MODULES "")
+set(ur_gripper_gazebo_SETUP_PY_MODULE_DIRS "")
